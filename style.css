@@ -1,0 +1,11 @@
+nav a {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+.burger {
+    cursor: pointer;
+}
